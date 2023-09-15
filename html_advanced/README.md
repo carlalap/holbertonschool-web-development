@@ -42,16 +42,16 @@
   </div>
 </div>
 
-    <div class="panel panel-default" id="project-description">
+  <div class="panel panel-default" id="project-description">
 
   <div class="panel-body">
-    <p><img src="/images/template_goal.jpg" alt="" loading='lazy' style="width: 600px" /></p>
+    <p><img src="../images/template_goal.jpg" alt="" loading='lazy' style="width: 600px" /></p>
 
-<p><img src="/images/wireframe_final.jpg" alt="" loading='lazy' style="width: 600px" /></p>
+<p><img src="../images/wireframe_final.jpg" alt="" loading='lazy' style="width: 600px" /></p>
 
-h2 class="gap">Tasks</h2>
+<h2 class="gap">Tasks</h2>
 
-    <div data-role="task18761" data-position="1" id="task-num-0">
+   <div data-role="task18761" data-position="1" id="task-num-0">
       <div class="panel panel-default task-card " id="task-18761">
 
 <span id="user_id" data-id="6138"></span>
@@ -91,5 +91,3 @@ h2 class="gap">Tasks</h2>
 <p>For this task, please write an amazing <code>README.md</code></p>
 
   </div>
-
-  
