@@ -42,12 +42,13 @@
   </div>
 </div>
 
-  <div class="panel panel-default" id="project-description">
+## School Template Page
 
-  <div class="panel-body">
-    <p><img src="../images/template_goal.jpg" alt="" loading='lazy' style="width: 600px" /></p>
+![template](./images/template_goal.jpg)
 
-<p><img src="../images/wireframe_final.jpg" alt="" loading='lazy' style="width: 600px" /></p>
+## School Template Page
+
+![Wireframe](./images/wireframe_final.jpg)
 
 <h2 class="gap">Tasks</h2>
 
@@ -66,7 +67,7 @@
   <div class="panel-body">
     <span id="user_id" data-id="6138"></span>
 
-   <!-- Progress vs Score -->
+<!-- Progress vs Score -->
 
 <!-- Task Body -->
    <p>In this and coming projects, you will implement from scratch a webpage from a designer file.</p>
@@ -89,5 +90,267 @@
 </ul>
 
 <p>For this task, please write an amazing <code>README.md</code></p>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      1. Header
+    </h3>
+
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+  <!-- Progress vs Score -->
+
+<!-- Task Body -->
+<p>Let&rsquo;s start by the top: <strong>the header</strong></p>
+
+<p>Here the wireframe of it:</p>
+
+![header](./images/header.jpg)
+
+<ul>
+<li>Create the HTML skeleton (<code>html</code>, <code>head</code>, <code>body</code>, etc.)<br></li>
+<li>In the body, add an <code>header</code> tag</li>
+<li>Inside this <code>header</code>:
+
+<ul>
+<li>Add a link element with an image inside</li>
+<li>Add a block of 3 link elements </li>
+</ul></li>
+</ul>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      2. Banner
+    </h3>
+
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+<!-- Progress vs Score -->
+
+ <!-- Task Body -->
+   <p>Now, the banner under the <code>header</code>:</p>
+
+![Banner](./images/banner.jpg)
+
+<p>Under the <code>header</code>, add a <code>main</code> element with inside a <code>section</code> element.</p>
+
+<p>In this <code>section</code> element, add:</p>
+
+<ul>
+<li>A block with inside:
+
+<ul>
+<li>An heading tag (don&rsquo;t forget to use the correct heading value)</li>
+<li>A text element</li>
+<li>A button tag</li>
+</ul></li>
+<li>Another block with inside:
+
+<ul>
+<li>Another heading tag (same, be careful about which one you are using)</li>
+<li>A block containing 4 blocks - each block with inside:
+
+<ul>
+<li>An image</li>
+<li>An heading tag</li>
+<li>A text</li>
+</ul></li>
+</ul></li>
+</ul>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      3. Quote
+    </h3>
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+   <!-- Progress vs Score -->
+
+   <!-- Task Body -->
+   <p>Under the banner, we will add the quote block:</p>
+
+![Cuote](./images/cuote.jpg)
+
+<p>The quote section is inside the <code>main</code>:</p>
+
+<ul>
+<li>Create a new <code>section</code> for the quote</li>
+<li>Inside, add a block containing:
+
+<ul>
+<li>An image</li>
+<li>Another block with inside:
+
+<ul>
+<li>A quote tag</li>
+<li>An author quote</li>
+<li>A text</li>
+</ul></li>
+</ul></li>
+</ul>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      4. Videos
+    </h3>
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+<!-- Progress vs Score -->
+
+<!-- Task Body -->
+<p>Let&rsquo;s now add the videos list:</p>
+
+![videos](./images/videos.jpg)
+
+<p>New <code>section</code> with inside:</p>
+
+<ul>
+<li>An heading tag</li>
+<li>A block containing the 4 video block - each of them are composed with:
+
+<ul>
+<li>An image</li>
+<li>An heading</li>
+<li>A text</li>
+<li>A block for the author:
+
+<ul>
+<li>A image</li>
+<li>An heading</li>
+</ul></li>
+<li>A block for the rating:
+
+<ul>
+<li>A block of images (one star = one image)</li>
+<li>A text</li>
+</ul></li>
+</ul></li>
+</ul>
+
+</div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      5. Membership
+    </h3>
+
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+   <!-- Progress vs Score -->
+
+  <!-- Task Body -->
+  <p>Membership section is similar as the videos list:</p>
+
+![Membership](./images/membership.jpg)
+
+<p>After the videos list section, add a new <code>section</code> containing:</p>
+
+<ul>
+<li>An heading</li>
+<li>A block with inside 4 block item - each block defined with:
+
+<ul>
+<li>An image</li>
+<li>An heading</li>
+<li>A text</li>
+</ul></li>
+<li>A button</li>
+</ul>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      6. FAQ
+    </h3>
+
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+   <!-- Progress vs Score -->
+
+   <!-- Task Body -->
+   <p>The FAQ section is ending the page before the footer:</p>
+
+![FAQ](./images/FAQ.jpg)
+
+<p>Add a <code>section</code> for the FAQ with inside:</p>
+
+<ul>
+<li>A block that contains 2 &ldquo;row block&rdquo;</li>
+<li>Each &ldquo;row block&rdquo; contains 2 &ldquo;item block&rdquo;</li>
+<li>Each &ldquo;item block&rdquo; is composed of:
+
+<ul>
+<li>An heading</li>
+<li>A text</li>
+</ul></li>
+</ul>
+
+  </div>
+
+<div class="panel-heading panel-heading-actions">
+    <h3 class="panel-title">
+      7. Footer
+    </h3>
+
+  </div>
+
+  <div class="panel-body">
+    <span id="user_id" data-id="6138"></span>
+
+   <!-- Progress vs Score -->
+
+   <!-- Task Body -->
+   <p>And&hellip; the footer!</p>
+
+![Footer](./images/footer.jpg)
+
+<p>After the last <code>section</code>, outside of the <code>main</code>, add a <code>footer</code>:</p>
+
+<ul>
+<li>A global block (used later for centering the footer content), inside this block:
+
+<ul>
+<li>A &ldquo;row block&rdquo; with:
+
+<ul>
+<li>An image</li>
+<li>A block with inside:
+
+<ul>
+<li>Images with link</li>
+</ul></li>
+</ul></li>
+<li>A text</li>
+</ul></li>
+</ul>
+
+<p>And&hellip; that&rsquo;s it for the moment - the result should not be shiny, don&rsquo;t worry, CSS is coming&hellip;</p>
 
   </div>
