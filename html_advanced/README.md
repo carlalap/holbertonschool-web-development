@@ -46,7 +46,7 @@
 
 ![template](./images/template_goal.jpg)
 
-## School Template Page
+## Website Wireframe
 
 ![Wireframe](./images/wireframe_final.jpg)
 
