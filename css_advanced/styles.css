@@ -485,7 +485,7 @@ html, body {
 .matrix > div {
     flex: 0 1 calc(40% - 20px); /* 2 columns with a gap of 20px */
     max-width: calc(40% - 20px);
-    border: 1px solid #ccc; /* Add borders if desired */
+    border: 1px solid #FFFFFF; /* Add borders if desired, change color */
     padding: 50px; /* Add padding as desired */
     box-sizing: border-box;
 }
