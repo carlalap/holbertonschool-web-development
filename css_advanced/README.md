@@ -1,5 +1,15 @@
 # CSS, advanced
 
+<h2>Learning Objectives</h2>
+
+<p>The goal is to create a page as similar as possible to the one shown in the 
+Template Page. </p>
+
+<p> Click on the following link to open the outcome page:</p>
+
+<li><a href="https://carlalap.github.io/" title="The outcome of the project" target="_blank">School Page_CSS, advanced</a> </li>
+</ul>
+
 ## Template Page
 
 ![template](./images/template_goal.jpg)
@@ -16,10 +26,6 @@
 <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS" title="CSS" target="_blank">CSS</a> </li>
 <li><a href="https://developer.mozilla.org/en-US/" title="MDN" target="_blank">MDN</a> </li>
 </ul>
-
-<h2>Learning Objectives</h2>
-
-<p>At the end of this project, you are expected to be able to <a href="https://fs.blog/feynman-learning-technique/" title="explain to anyone" target="_blank">explain to anyone</a>, <strong>without the help of Google</strong>:</p>
 
 <h3>General</h3>
 
